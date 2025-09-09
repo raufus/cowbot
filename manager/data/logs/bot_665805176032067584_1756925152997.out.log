@@ -1,0 +1,50 @@
+Loaded 122 commands from U:\commands
+Runner online as bot1412863970280472786#8462
+Loaded 122 commands from U:\commands
+Runner online as bot1412863970280472786#8462
+Loaded 122 commands from U:\commands
+Runner online as bot1412863970280472786#8462
+Loaded 122 commands from U:\commands
+Runner online as bot1412863970280472786#8462
+Loaded 122 commands from U:\commands
+Runner online as bot1412863970280472786#8462
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Loaded 122 commands from U:\commands
+Runner online as bot1412863970280472786#8462
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7) {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3000
+        at createConnectionError (node:net:1677:14)
+        at afterConnectMultiple (node:net:1707:16) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3000
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3000
+        at createConnectionError (node:net:1677:14)
+        at afterConnectMultiple (node:net:1707:16) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3000
+    }
+  ]
+}

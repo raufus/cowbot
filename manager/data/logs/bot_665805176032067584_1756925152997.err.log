@@ -1,0 +1,440 @@
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+HTTPError [AbortError]: The user aborted a request.
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (U:\commands\manager\node_modules\discord.js\src\client\Client.js:254:7) {
+  code: 500,
+  method: 'get',
+  path: '/gateway/bot',
+  requestData: { json: undefined, files: [] }
+}
+Command error addemoji TypeError: Cannot read properties of undefined (reading 'includes')
+    at Util.parseEmoji (U:\commands\manager\node_modules\discord.js\src\util\Util.js:389:14)
+    at Object.run (U:\commands\gestion\addemoji.js:30:39)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+Command error addemoji TypeError: Cannot read properties of undefined (reading 'includes')
+    at Util.parseEmoji (U:\commands\manager\node_modules\discord.js\src\util\Util.js:389:14)
+    at Object.run (U:\commands\gestion\addemoji.js:30:39)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+Command error addemoji TypeError: Cannot read properties of undefined (reading 'includes')
+    at Util.parseEmoji (U:\commands\manager\node_modules\discord.js\src\util\Util.js:389:14)
+    at Object.run (U:\commands\gestion\addemoji.js:30:39)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+Command error addemoji TypeError: Cannot read properties of undefined (reading 'includes')
+    at Util.parseEmoji (U:\commands\manager\node_modules\discord.js\src\util\Util.js:389:14)
+    at Object.run (U:\commands\gestion\addemoji.js:30:39)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+Command error addrole TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at U:\commands\moderation\addrole.js:37:224
+    at _Collection.find (U:\commands\manager\node_modules\discord.js\node_modules\@discordjs\collection\dist\index.js:122:11)
+    at Object.run (U:\commands\moderation\addrole.js:37:181)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+(node:19788) DeprecationWarning: MessageEmbed#addField is deprecated and will be removed in the next major update. Use MessageEmbed#addFields instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:19788) DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pass a sole object instead.
+Command error ban TypeError: Cannot read properties of undefined (reading 'user')
+    at Object.run (U:\commands\moderation\ban.js:38:41)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+Command error createlimit TypeError: ms is not a function
+    at Object.run (U:\commands\antiraid\creation.js:38:20)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+Command error delrole TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at U:\commands\moderation\delrole.js:37:224
+    at _Collection.find (U:\commands\manager\node_modules\discord.js\node_modules\@discordjs\collection\dist\index.js:122:11)
+    at Object.run (U:\commands\moderation\delrole.js:37:181)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+Command error derank TypeError: Cannot read properties of undefined (reading 'user')
+    at Object.run (U:\commands\moderation\derank.js:39:41)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+Command error helpall TypeError: Cannot read properties of undefined (reading 'forEach')
+    at Object.run (U:\commands\utilitaire\helpall.js:41:25)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+Command error leave TypeError: Cannot read properties of undefined (reading 'id')
+    at Object.run (U:\commands\bot gestion\leave.js:39:15)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+(node:19788) DeprecationWarning: Passing strings for MessageEmbed#setAuthor is deprecated. Pass a sole object instead.
+Command error lrm TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at U:\commands\utilitaire\lrm.js:38:280
+    at _Collection.find (U:\commands\manager\node_modules\discord.js\node_modules\@discordjs\collection\dist\index.js:122:11)
+    at Object.run (U:\commands\utilitaire\lrm.js:38:237)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+Command error massiverole TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at U:\commands\moderation\massiverole.js:38:224
+    at _Collection.find (U:\commands\manager\node_modules\discord.js\node_modules\@discordjs\collection\dist\index.js:122:11)
+    at Object.run (U:\commands\moderation\massiverole.js:38:181)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+Command error mute TypeError: ms is not a function
+    at Object.run (U:\commands\moderation\mute.js:38:20)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+Command error mutelimit TypeError: ms is not a function
+    at Object.run (U:\commands\gestion\mutelimit.js:54:128)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+DiscordAPIError: Unknown Channel
+    at RequestHandler.execute (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:350:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RequestHandler.push (U:\commands\manager\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async GuildChannelManager.delete (U:\commands\manager\node_modules\discord.js\src\managers\GuildChannelManager.js:500:5)
+    at async TextChannel.delete (U:\commands\manager\node_modules\discord.js\src\structures\GuildChannel.js:463:5) {
+  method: 'delete',
+  path: '/channels/1235935764882264178',
+  code: 10003,
+  httpStatus: 404,
+  requestData: { json: undefined, files: [] }
+}
+Command error sanctions TypeError: Cannot read properties of undefined (reading 'user')
+    at Object.run (U:\commands\moderation\sanctions.js:43:40)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+Command error slowmode TypeError: ms is not a function
+    at Object.run (U:\commands\moderation\slowmode.js:38:20)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+Command error snipe TypeError: Cannot read properties of undefined (reading 'get')
+    at Object.run (U:\commands\utilitaire\snipe.js:36:33)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+Command error tempmute TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at Object.run (U:\commands\moderation\tempmute.js:38:31)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+Command error serverinfo Error [GUILD_MEMBERS_TIMEOUT]: Members didn't arrive in time.
+    at Timeout._onTimeout (U:\commands\manager\node_modules\discord.js\src\managers\GuildMemberManager.js:515:16)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  [Symbol(code)]: 'GUILD_MEMBERS_TIMEOUT'
+}
+Command error temprole TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at U:\commands\moderation\temprole.js:38:224
+    at _Collection.find (U:\commands\manager\node_modules\discord.js\node_modules\@discordjs\collection\dist\index.js:122:11)
+    at Object.run (U:\commands\moderation\temprole.js:38:181)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+Command error unmassiverole TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at U:\commands\moderation\unmassiverole.js:38:224
+    at _Collection.find (U:\commands\manager\node_modules\discord.js\node_modules\@discordjs\collection\dist\index.js:122:11)
+    at Object.run (U:\commands\moderation\unmassiverole.js:38:181)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+Command error unmute TypeError: ms is not a function
+    at Object.run (U:\commands\moderation\unmute.js:39:20)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)
+Command error untemprole TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at U:\commands\moderation\untemprole.js:39:224
+    at _Collection.find (U:\commands\manager\node_modules\discord.js\node_modules\@discordjs\collection\dist\index.js:122:11)
+    at Object.run (U:\commands\moderation\untemprole.js:39:181)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+Command error voicemove TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at U:\commands\moderation\voicemove.js:38:239
+    at LimitedCollection.find (U:\commands\manager\node_modules\discord.js\node_modules\@discordjs\collection\dist\index.js:122:11)
+    at Object.run (U:\commands\moderation\voicemove.js:38:196)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+Command error warn TypeError: Cannot read properties of undefined (reading 'user')
+    at Object.run (U:\commands\moderation\warn.js:38:41)
+    at Client.<anonymous> (file:///U:/commands/manager/src/runner/bot-runner.js:164:15)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (U:\commands\manager\node_modules\discord.js\src\client\actions\MessageCreate.js:26:14)
+    at module.exports [as MESSAGE_CREATE] (U:\commands\manager\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketManager.js:346:31)
+    at WebSocketShard.onPacket (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:493:22)
+    at WebSocketShard.onMessage (U:\commands\manager\node_modules\discord.js\src\client\websocket\WebSocketShard.js:327:10)
+    at callListener (U:\commands\manager\node_modules\ws\lib\event-target.js:290:14)
+    at WebSocket.onMessage (U:\commands\manager\node_modules\ws\lib\event-target.js:209:9)

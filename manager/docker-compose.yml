@@ -1,0 +1,23 @@
+version: '3.8'
+services:
+  manager:
+    build: .
+    container_name: crowbot-manager
+    restart: unless-stopped
+    environment:
+      - PORT=8080
+      - BASE_URL=http://localhost:8080
+      - DISCORD_TOKEN=${MTQxMjg2Mzk3MDI4MDQ3Mjc4Ng.G6s0Hd.InNrKDCbY_eAiBPZ4bTnHByglxLW8O4kuKPE4g}
+      - DISCORD_CLIENT_ID=${1412863970280472786}
+      - GUILD_ID=${1235935764882264175}
+      - STRIPE_SECRET=${sk_test_51R2as207Ss5zFpBKlK39idpjSYbAhurtaXPsCTrOarv9gPnqeXOWCwEngJTSvUSLNPklq2umpvyO27cEyqMSt5Aq009zzSipat}
+      - STRIPE_PRICE_ID=${prod_SzizJBbApewSfr}
+      - STRIPE_WEBHOOK_SECRET=${STRIPE_WEBHOOK_SECRET}
+      - SQLITE_PATH=/data/manager.db
+      - LOG_DIR=/data/logs
+      - ADMIN_KEY=${97999799}
+      - DEFAULT_PREFIX=${DEFAULT_PREFIX}
+    volumes:
+      - ./data:/data
+    ports:
+      - "8080:8080"
